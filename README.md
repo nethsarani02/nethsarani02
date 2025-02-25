@@ -50,6 +50,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarani02&theme=dark" alt="nethsarani02" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarani02&theme=dark" alt="Mark streak" />
 </p>
 
