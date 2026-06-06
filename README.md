@@ -46,9 +46,13 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=nethsarani02&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nethsarani02&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/top-langs?username=nethsarani02&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethsarani02&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethsarani02&theme=tokyonight" />
 </p>
