@@ -43,16 +43,14 @@
 
 <br><br><br><br><br>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">🌸 My GitHub Journey 🌸</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nethsarani02&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nethsarani02&theme=rose_pine" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nethsarani02&theme=rose_pine" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethsarani02&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethsarani02&theme=rose_pine&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nethsarani02&theme=tokyonight" />
-</p>
