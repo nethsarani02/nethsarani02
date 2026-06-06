@@ -43,15 +43,11 @@
 
 <br><br><br><br><br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nethsarani02&show_icons=true&locale=en&layout=compact&theme=dark" alt="nethsarani02" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nethsarani02&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethsarani02&layout=compact&theme=dark" height="180"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nethsarani02&show_icons=true&locale=en&theme=dark" alt="nethsarani02" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nethsarani02&theme=dark" height="180"/>
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethsarani02&theme=dark" alt="Mark streak" />
-</p>
-
